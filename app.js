@@ -1,10 +1,2 @@
-let menu =document.querySelector("#icono-menu");
-let navegacion = document.querySelector(".navegacion");
-
-menu.addEventListener("click", function(){
-    navegacion.classList.toogle("active");
-});
-
-window.onscroll = () => {
-    navegacion.classList.remove("active")
-}
+//documento.write(beinvenido a java scripts</center><h1>');
+//alert
