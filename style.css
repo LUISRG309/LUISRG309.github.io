@@ -6,23 +6,6 @@
    
 }
 
-.navegacion{
-    display: flex;
-}
-
-.navegacion a{
-    color: var(--colorTexto);
-    font-size: 1.1rem;
-    padding: 10px 20px;
-    font-weight: 600;
-}
-
-.navegacion a:hover{
-    color: var(--colorPrincipal);
-    transition: .4s;
-}
-
-
 body {
    background: url('PAISAJE\ PARA\ BLOG.png') no-repeat;
    background-size: cover;
